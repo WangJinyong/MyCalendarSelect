@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="heise_40">#66000000</color>
+    <color name="gray_20">#36000000</color>
+    <color name="gray_F2">#F2F2F2</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="transparent">#00000000</color>
+    <color name="huise_bg">#E7E7E7</color>
+    <color name="blue">#2196F3</color>
+    <color name="blue1">#B93492F3</color>
+</resources>
