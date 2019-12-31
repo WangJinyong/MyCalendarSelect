@@ -77,7 +77,7 @@ public class MyCalendarListView extends FrameLayout {
 //        dividerItemDecoration.setDrawable(ContextCompat.getDrawable(context,R.drawable.animated_rotate));
 //        recyclerView.addItemDecoration(dividerItemDecoration);
 
-        //实现月份标题悬停的效果
+        //实现月份标题悬停的效果   测试
         MyItemDecoration myItemDecoration = new MyItemDecoration();
         recyclerView.addItemDecoration(myItemDecoration);
 
